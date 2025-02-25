@@ -1,4 +1,4 @@
-import BMICalculator from "./Pages/BmiCalculator";
+import BMICalculator from "./Pages/BMICalculator";
 
 export default function Home() {
   return (
